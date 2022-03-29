@@ -1,6 +1,6 @@
 Hello, I'm Vinita Kulkarni!
 
-I am a visual designer and web developer based in the Silicon Valley. I am currently open to design related job in the Bay Area or remote.
+I am a visual designer and web developer based in the Silicon Valley. I am currently open to web design or development related job in the Bay Area or remote.
 
 If you would like to recruit me for any important task, please email me at vinkul642@gmail.com.
 
