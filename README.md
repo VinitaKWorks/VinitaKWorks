@@ -10,7 +10,7 @@ You can also see my design process for my projects on Behance through:
 https://www.behance.net/vinitakulkarni.
 
 My LinkedIn: 
-https://www.linkedin.com/in/vinita-kulkarni-8980ba181/
+https://www.linkedin.com/in/vinitakulkarni8980ba181/
 
 <!---
 VinitaKWorks/VinitaKWorks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
