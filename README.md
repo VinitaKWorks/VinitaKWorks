@@ -4,7 +4,7 @@ I am a visual designer and web developer based in the Silicon Valley. I am curre
 
 If you would like to recruit me for any important task, please email me at vinkul642@gmail.com.
 
-See my hand-coded web development portfolio on vinitakworks.github.io/webdevportfolio.
+See my hand-coded web development portfolio on https://vinitakworks.github.io/webdevportfolio.
 
 You can also see my design process for my projects on Behance through:
 https://www.behance.net/vinitakulkarni.
