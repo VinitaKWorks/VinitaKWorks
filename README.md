@@ -6,7 +6,7 @@ If you would like to recruit me for any important task, please email me at vinku
 
 See my hand-coded HTML and CSS portfolio on https://vinitakworks.github.io/webdevportfolio.
 
-You can also see my design process for my projects on Behance through:
+You can also see my design process for my projects on Behance through
 https://www.behance.net/vinitakulkarni.
 
 My LinkedIn: 
